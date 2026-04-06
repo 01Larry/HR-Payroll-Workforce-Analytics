@@ -21,7 +21,7 @@ composition through Excel-based analysis and an interactive dashboard.
   Malaysia, Portugal, Romania, Singapore
 
 ## Tools
-- **Excel** — Data cleaning, advanced formulas, pivot tables
+- **Excel** - Data cleaning, advanced formulas, pivot tables
   and interactive dashboard
 
 ## Data Cleaning
@@ -44,46 +44,46 @@ composition through Excel-based analysis and an interactive dashboard.
   Salary Variance, Full Name and Payroll Year to support analysis
 
 ## Analysis
-- **Headcount by Department** — employee distribution across
+- **Headcount by Department** - employee distribution across
   5 departments to understand organisational structure
-- **Active vs Inactive Employees** — workforce status split
+- **Active vs Inactive Employees** - workforce status split
   showing active and inactive employee proportions
-- **Gender Pay Analysis** — average net salary compared across
+- **Gender Pay Analysis** - average net salary compared across
   Male, Female and Prefer Not to Say categories
-- **Payroll Cost Trend** — total gross salary tracked from
+- **Payroll Cost Trend** - total gross salary tracked from
   2018 to 2022 to identify payroll growth patterns
-- **Salary Band Distribution** — employees categorised into
+- **Salary Band Distribution** - employees categorised into
   Low, Mid and High salary bands based on basic salary
 
 ## Key Formulas Used
-- `COUNTIF` — headcount by department and status
-- `AVERAGEIF` — average salary by department and gender
-- `SUMIF` — total payroll by department
-- `MAXIFS` / `MINIFS` — salary range by department
-- `IFERROR` — error handling on division calculations
-- `IF` / `TEXT` — helper column creation
-- `COUNTBLANK` — null value identification
-- `INDEX` — column header inspection
-- `COUNTA` — total employee count
+- `COUNTIF` - headcount by department and status
+- `AVERAGEIF` - average salary by department and gender
+- `SUMIF` - total payroll by department
+- `MAXIFS` / `MINIFS` - salary range by department
+- `IFERROR` - error handling on division calculations
+- `IF` / `TEXT` - helper column creation
+- `COUNTBLANK` - null value identification
+- `INDEX` - column header inspection
+- `COUNTA` - total employee count
 
 ## Results
 - Total workforce of 3,215 employees generating 1.86B in total payroll
 - Marketing is the largest department at 1,363 employees
 - Female employees earn slightly more on average at 93,280
-  vs Male at 90,653 — a 2,627 pay gap
+  vs Male at 90,653 - a 2,627 pay gap
 - Total payroll grew significantly from 2018 to 2022 with a
   sharp spike in 2022 reaching 1.33B in that year alone
 - IT has the highest average basic salary at 83,920
 - HR is the smallest department at 115 employees
 
 ## Recommendations
-- Investigate the sharp 2022 payroll spike — likely driven by
+- Investigate the sharp 2022 payroll spike - likely driven by
   new hires or salary adjustments in Marketing given its
   dominant headcount
-- Address grade distribution — employees in grades J, K and L
+- Address grade distribution - employees in grades J, K and L
   earn significantly less and may benefit from structured
   progression pathways
 - Monitor gender pay gap across departments to ensure equitable
   compensation as the workforce grows
 - HR department at 115 employees supporting 3,215 staff may be
-  understaffed — consider reviewing HR to employee ratio
+  understaffed - consider reviewing HR to employee ratio
